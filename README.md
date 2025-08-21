@@ -1,5 +1,5 @@
 # 💫 Sobre mim
-Olá! Eu sou o Deky, sou apenas um estudante de programação!<br>📚 Estudando na IFPR, Unicesumar e Alura.<br>🔨 Trabalhando em projetos dos cursos e em Harvey Tools.<br>🌱 Busco aprender alguns frameworks de javaScript e Python.<br>🎶 Atualmente escutando Yun li, Ricky Montgomery, Tally Hall, entre outros.<br>🎉 29 / 09
+Olá! Eu sou o Deky, sou apenas um estudante de programação!<br>📚 Estudando no IFPR<br>🔨 Trabalhando em projetos dos cursos e no IFMais.<br>🌱 Busco aprender alguns mais sobre React, Laravel e Java.<br>🎶 Atualmente escutando Ado, Jamie Pagie, Interpol, entre outros.<br>🎉 29 / 09
 
 
 ## 🌐 Me encontre em:
